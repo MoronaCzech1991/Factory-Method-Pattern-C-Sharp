@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\bin\Debug\FactoryMethodApplication.exe.config
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\bin\Debug\FactoryMethodApplication.exe
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\bin\Debug\FactoryMethodApplication.pdb
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\obj\Debug\FactoryMethodApplication.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\obj\Debug\FactoryMethodApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\obj\Debug\FactoryMethodApplication.exe
+C:\Users\Lucas\Desktop\Git Hub\Factory Method Patern\FactoryMethodApplication\FactoryMethodApplication\obj\Debug\FactoryMethodApplication.pdb
